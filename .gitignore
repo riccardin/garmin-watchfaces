@@ -1,0 +1,20 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Trae local planning artifacts
+/.trae/
+
+# Garmin SDK and signing material kept local to this machine
+/developer_key.pem
+/developer_key.der
+/connectiq-sdk-bin-local/
+
+# Local backups created while flattening nested app repos
+/.repo-backups/
+
+# Generated Connect IQ build output for each app
+/apps/*/build/
+
+# Optional editor-local files
+/.vscode/

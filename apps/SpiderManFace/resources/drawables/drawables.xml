@@ -1,0 +1,9 @@
+<drawables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <bitmap id="LauncherIcon" filename="launcher_icon.svg" dithering="none" />
+    <bitmap id="SpiderManFaceReal" filename="spiderman_face_real.png" dithering="none" />
+    <bitmap id="SpiderManStepsLayout" filename="steps_spiderman_78.png" dithering="none" />
+    <bitmap id="SpiderManStressLayout" filename="stress_spiderman_78.png" dithering="none" />
+    <bitmap id="SpiderManHeartLayout" filename="heart_spiderman_78.png" dithering="none" />
+    <bitmap id="SpiderManFaceBase" filename="spiderman_face_base.svg" dithering="none" />
+    <bitmap id="SpiderManFaceOverlay" filename="spiderman_face_overlay.svg" dithering="none" />
+</drawables>
